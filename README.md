@@ -1,5 +1,5 @@
 # gamepass_scanner
 
-> * made with ❤️ by lenny and nolan
-> * made for project blu
-> * if u are using it without project blu permission then u are a skid
+> * 🛠️ Made by Lenny & Nolan
+> * ✨ Made for Project Blu
+> * ⚠️ Use of this code without the permission of Project Blu may result in necessary action.
