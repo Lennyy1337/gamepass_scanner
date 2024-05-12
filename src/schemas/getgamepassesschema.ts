@@ -1,6 +1,6 @@
 import { createYupSchema } from "fastify-yup-schema";
 
-export const changeUserRobloxSchema = createYupSchema((yup) => ({
+export const gamepassschema = createYupSchema((yup) => ({
   body: yup
     .object()
     .shape({
